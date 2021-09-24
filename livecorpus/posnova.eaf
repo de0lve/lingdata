@@ -72,91 +72,91 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Как тебе больше нравится когда говорят / супруга или жена / супруг или муж?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Как тебе больше нравится когда говорят / супруга или жена / супруг или муж? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>Какая формулировка нравится больше?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Какая формулировка нравится больше? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Мне нравится больше формулировка супруги / впервые я об этом кстати услышала типа в обычной речи именно от Дениса потому что так как будто красивее / знаешь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Мне нравится больше формулировка супруги / впервые я об этом кстати услышала типа в обычной речи именно от Дениса потому что так как будто красивее / знаешь //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>супружестваа пруж... пружина?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>супружестваа пруж... пружина? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
                 TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>су это совместное</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>су это совместное //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
                 TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>совпроводить можно да? сопро... сопружение сопряжение сопряжение / жена женщина муж мужчина</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>совпроводить можно да? сопро... сопружение сопряжение сопряжение / жена женщина муж мужчина //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
                 TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>так-то да но немножно нет связи а супружество они как будто</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>так-то да но немножно нет связи а супружество они как будто //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>да!</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да! //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
                 TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>а кстати да / так-то мы в браке / я не сказала четыре почти года прям осталось буквально три месяца и будет четыре года от официального бракосочетания но от празднования / три</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а кстати да / так-то мы в браке / я не сказала четыре почти года прям осталось буквально три месяца и будет четыре года от официального бракосочетания но от празднования / три //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
                 TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>а / типа щас тебе тридцать четыре?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а / типа щас тебе тридцать четыре? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
                 TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>оптимистично</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>оптимистично //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
                 TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-                <ANNOTATION_VALUE>ну да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну да //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
                 TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
-                <ANNOTATION_VALUE>ну да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну да //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
                 TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>даа да-да / вот и у меня была такая фигня</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>даа да-да / вот и у меня была такая фигня //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -165,79 +165,79 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
                 TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
-                <ANNOTATION_VALUE>ну а если вот попробовать какое-то значение разобрать / этой идеи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну а если вот попробовать какое-то значение разобрать / этой идеи //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>а су это ваще что это совместное / совместное</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а су это ваще что это совместное / совместное //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
                 TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE>так тоже нормально</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>так тоже нормально //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>ну да там как будто шото отдельное а здесь вместе / вместе быть запряженными... запряжёнными / пахать вместе короче / семейной жизнью / вот и пашем четыре года</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну да там как будто шото отдельное а здесь вместе / вместе быть запряженными... запряжёнными / пахать вместе короче / семейной жизнью / вот и пашем четыре года //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
                 TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>а разлуки в отношениях / это хорошо? ну мне на самом дм.. деле кажется что да и нам как будто не хватает разлук</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а разлуки в отношениях / это хорошо? ну мне на самом дм.. деле кажется что да и нам как будто не хватает разлук //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>потому что я сегда стараюсь сам по сути ещё / на начальной стадии своей жизни жить долго и я... я... да-да-да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потому что я сегда стараюсь сам по сути ещё / на начальной стадии своей жизни жить долго и я... я... да-да-да //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE>#нрзб#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#нрзб# //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
                 TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>я понимаю что я ещё многое сам не... не пережил и / опыта своего не... не хватает чтобы это понять поэтому зачастую я / смотрю что говорят уже умные люди которым по песят по шесят по семьдесят</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я понимаю что я ещё многое сам не... не пережил и / опыта своего не... не хватает чтобы это понять поэтому зачастую я / смотрю что говорят уже умные люди которым по песят по шесят по семьдесят //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>и по... по сто лет и они конечно все говорят что для отношений всегда хороши расставания разлуки / потому что вот вспомните</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и по... по сто лет и они конечно все говорят что для отношений всегда хороши расставания разлуки / потому что вот вспомните //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
                 TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>какую-нибудь любовь почему она отчасти такая классная потому что вы не всё время вместе живёте вы всё время на расстоянии хотите друг друга быстрее увидеть вы можете соскучиться / снова романтично попереписываться</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>какую-нибудь любовь почему она отчасти такая классная потому что вы не всё время вместе живёте вы всё время на расстоянии хотите друг друга быстрее увидеть вы можете соскучиться / снова романтично попереписываться //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
                 TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>поэтомуу мне кажется даже нужно умышленно это делать</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поэтомуу мне кажется даже нужно умышленно это делать //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
                 TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>умышленно ехать / например я поеду в свой Челябинск и не обязательно вместе ехать могу один приехать / эт прикольно / можем там по видео-сообщению поболтать / соскучиться</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>умышленно ехать / например я поеду в свой Челябинск и не обязательно вместе ехать могу один приехать / эт прикольно / можем там по видео-сообщению поболтать / соскучиться //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
                 TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>но в начале / кажется что блин надо быть вместе / какая-то ревность появ... какая-то ревность появляется / да какое-то неспокойствие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>но в начале / кажется что блин надо быть вместе / какая-то ревность появ... какая-то ревность появляется / да какое-то неспокойствие //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
